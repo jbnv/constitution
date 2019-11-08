@@ -18,7 +18,12 @@ SECTION 9. The right of the people to be secure in their persons, houses, papers
 
 SECTION 10. No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger.
 
+SECTION 11. [FAIR REPRESENTATION](fair-representation.md)
 
-(incomplete) person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; 
+SECTION 12. RIGHT OF RECALL. The State shall ensure the right of the people to organize for the recall of an elected official of the state. (Incomplete)
+
+# Incomplete Material
+
+person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; 
 
 The State shall make no claim on the private property of the individual, nor on the income of the person nor the estate, without just cause. Furthermore, the State shall not confiscate all or any part of the private property or income or estate of an individual without just cause and due process. _(This prohibits seizure and taxation of property, income and estate.)_
